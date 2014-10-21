@@ -72,18 +72,18 @@ public class IClickerServer {
 	 */
 
 	public void displayAnswerChar() {
-		System.out.println("A: " + answerA/2);
-		System.out.println("B: " + answerB/2);
-		System.out.println("C: " + answerC/2);
-		System.out.println("D: " + answerD/2);
+		System.out.println("A: " + answerA);
+		System.out.println("B: " + answerB);
+		System.out.println("C: " + answerC);
+		System.out.println("D: " + answerD);
 	}
 	/**
 	 * it displays each counters for int type question
 	 */
 
 	public void displayAnswerInt() {
-		System.out.println("1. Right : " + answer1/2);
-		System.out.println("2. Wrong : " + answer2/2);
+		System.out.println("1. Right : " + answer1);
+		System.out.println("2. Wrong : " + answer2);
 	}
 
 }

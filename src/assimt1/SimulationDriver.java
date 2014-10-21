@@ -146,7 +146,6 @@ public class SimulationDriver {
 		is.countInt(a);
 		// System.out.println(st.getAns()+ "\t" +st.getID());
 		ob[index++] = st;
-		is.countInt(a);
 	}
 
 	/**
@@ -164,7 +163,6 @@ public class SimulationDriver {
 		is.countChar(a);
 		// System.out.println((st.getAn() + "\t" + st.getID()));
 		ob[index++] = st;
-		is.countChar(a);
 	}
 
 	/**
